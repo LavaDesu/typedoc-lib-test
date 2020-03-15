@@ -1,0 +1,8 @@
+{
+  "name": "typedoc-lib-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/index.js",
+  "author": "",
+  "license": "ISC"
+}
